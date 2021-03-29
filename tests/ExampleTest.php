@@ -1,9 +1,8 @@
 <?php
 
-namespace Mainetcare\Appchup\SeederHelper\SeederHelper\TestHelper\SeederHelper\Tests;
+namespace Mainetcare\Appchup\Tests;
 
-use Orchestra\Testbench\TestCase;
-use Mainetcare\Appchup\SeederHelper\SeederHelper\TestHelper\SeederHelper\AppchupServiceProvider;
+use Mainetcare\Appchup\AppchupServiceProvider;
 
 class ExampleTest extends TestCase
 {
